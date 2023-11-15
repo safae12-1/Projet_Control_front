@@ -10,3 +10,7 @@
 ![nn](https://github.com/safae12-1/Projet_Control_front/assets/124156186/045a6846-6cd2-49a4-92bf-d2dc57fab150)
 
 ![bbasede](https://github.com/safae12-1/Projet_Control_front/assets/124156186/d7336c80-69e0-4a09-9841-d6d225e7a185)
+
+-liste des employes:
+
+![liste](https://github.com/safae12-1/Projet_Control_front/assets/124156186/421b5656-5e48-4b39-8bd7-5dc29dd8d0ad)
